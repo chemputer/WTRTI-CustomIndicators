@@ -1,0 +1,9 @@
+[Info]
+name=Combat Flaps
+hash=Indc-641E4D00C3DF32B6
+wt_name=crit_flaps, km/h
+osd_name=FCMBT
+value_units_str=
+value_units=12
+value_prec=0
+custom_update_proc=0

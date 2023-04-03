@@ -1,0 +1,9 @@
+[Info]
+name=XSPWR
+hash=Indc-63F150E9F2BAB4EE
+wt_name=Vy, m/s
+osd_name=XSPWR
+value_units_str=
+value_units=2
+value_prec=2
+custom_update_proc=1

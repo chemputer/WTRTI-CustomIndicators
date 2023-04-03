@@ -1,0 +1,9 @@
+[Info]
+name=Landing Flaps
+hash=Indc-641E4D978B7B6E4D
+wt_name=crit_flaps, km/h
+osd_name=FLAND
+value_units_str=
+value_units=12
+value_prec=0
+custom_update_proc=1

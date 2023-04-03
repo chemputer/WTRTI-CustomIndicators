@@ -1,0 +1,9 @@
+[Info]
+name=Landing Gear
+hash=Indc-6423973F51FF7582
+wt_name=crit_gear, km/h
+osd_name=Gear
+value_units_str=
+value_units=12
+value_prec=0
+custom_update_proc=1
