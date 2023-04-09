@@ -1,9 +1,0 @@
-[Info]
-name=Max Speed
-hash=Indc-642B28593BBFECEF
-wt_name=
-osd_name=MXSPD
-value_units_str=
-value_units=12
-value_prec=0
-custom_update_proc=1
