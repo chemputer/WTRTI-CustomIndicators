@@ -2,7 +2,7 @@
 Custom Indicators for WTRTI tool for War Thunder
 
 ## Purpose 
-This is a collection of my personal (and hopefully others, to make this a resource for the community) Custom Indicators for [MeSoftHorny's WTRTI - GitHub](https://github.com/MeSoftHorny/WTRTI) [Related Topic on WT Forums](https://forum.warthunder.com/index.php?%2Ftopic%2F483838-warthunder-real-time-information%2F=), these only work for version 2.0+ as they rely on Lua scripts, but just to be safe assume that the newest version available is required. For instance, the Combat and Landing Flaps Indicators require 2.1.1. 
+This is a collection of my personal (and hopefully others, to make this a resource for the community) Custom Indicators for [MeSoftHorny's WTRTI - GitHub](https://github.com/MeSoftHorny/WTRTI) and the [Related Topic on WT Forums](https://forum.warthunder.com/index.php?%2Ftopic%2F483838-warthunder-real-time-information%2F=), these only work for version 2.0+ as they rely on Lua scripts, but just to be safe assume that the newest version available is required. For instance, the Combat and Landing Flaps Indicators require 2.1.1. 
 
 ## How to Contribute
 If anyone has their own Custom Indicator scripts and setups they want to share and have included in this repo, you can [DM me on the WT forums](https://forum.warthunder.com/index.php?%2Fprofile%2F1018371-chemputer%2F=), [open an issue on this repo](https://github.com/chemputer/WTRTI-CustomIndicators/issues/new) with the relevant files attached, or fork the repo and [create a pull request](https://github.com/chemputer/WTRTI-CustomIndicators/compare) if you're competent enough with Git and GitHub to feel comfortable doing so. 
