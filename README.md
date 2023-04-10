@@ -10,7 +10,7 @@ If anyone has their own Custom Indicator scripts and setups they want to share a
 If you do so, please add a photo of the Indicator setup in WTRTI like shown below, as well as a description of what it does if it is not immediately obvious based on the name, in the README file. If you're not comfortable working with Markdown but for some reason can do Lua fine, just let me know and I can do that for you. Also be sure to credit yourself, feel free to link to your own GitHub/WT Forums profile if you like.
 
 ## How to use
-The included .cfg file in /Profiles along with the custom indicators in /Indicators allow for my personal setup which looks like this:
+The included [.cfg file in Profiles](/Profiles) along with [the custom indicators in Indicators](/Indicators) allow for my personal setup which looks like this:
 ![Screenshot of a the WTRTI setup that I use that is included in the .cfg file.](/Images/WTRTI%20Setup.png)
 
 ## In Game
